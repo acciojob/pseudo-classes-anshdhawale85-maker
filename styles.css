@@ -41,6 +41,6 @@ ul li:last-child {
   font-size: 22px;
 }
 
-ul li :nth-last-child(3) {
+ul li:nth-last-child(3) {
     background-color: pink;
 }
